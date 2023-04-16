@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.about-bg {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.about-dark {
+  background-color: #000000;
+}
+
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+.about-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #1e293b;
+}
+.about-text {
+  color: #ffffff;
+}
+.about-img {
+  width: 130px;
+}

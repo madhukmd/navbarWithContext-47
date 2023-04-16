@@ -1,0 +1,41 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.not-found-bg {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.not-dark {
+  background-color: #000000;
+}
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+.not-found-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #1e293b;
+}
+.not-dark-text {
+  color: #ffffff;
+}
+.not-found-img {
+  width: 400px;
+}
+.not-found-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+}
+.not-dark-des {
+  color: #ffffff;
+}
